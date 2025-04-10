@@ -1,2 +1,2 @@
 # IFrame-Gen
-Generates any amount of frames desired
+http://cloodie500.github.io/IFrame-Gen
